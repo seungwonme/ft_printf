@@ -5,10 +5,10 @@ The `ft_printf` project is part of the 42 school curriculum, challenging student
 ## Overview
 The `ft_printf` function mimics the behavior of the standard `printf` function and supports a subset of its format specifiers. Key features include:
 
-- String formatting: %s, %c, %d, %i, %u, %x, %X, %p, and more.
+- String formatting: `%s`, `%c`, `%d`, `%i`, `%u`, `%x`, `%X`, `%p`, and more.
 - Width and precision: Specifying field width and precision with the * or numeric values.
 - sFlags: Supporting flags such as 0, -, +, (space), and #.
--
+
 ## Usage
 1. Clone the project:
 ```bash
